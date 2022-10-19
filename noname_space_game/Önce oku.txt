@@ -1,0 +1,15 @@
+NoName Space Game
+versiyon 1.1.4.38
+
+"NoName Space Game" 2 kişilik bir oyundur.
+-Play tuşuna bastığınızda açılacak olan harita menüsünde A ve D tuşlarıyla seçeceğiniz haritanın üstüne gelip enter a bastığınızda "Gemi"
+seçme menüsüne gelip 1. geminin üstüne gelip enter 2.geminin üstüne gelip enter a basınız.
+-Birinci uzay gemisi W ve S tuşlarıyla hareket edip, V tuşu ile ateş etmektedir.
+-İkinci uzay gemisi Ok tuşularıyla hareket edip, M tuşu ile ateş etmektedir.
+-Etap sonunda P tuşu İle Ana Menüye Dönülür.
+
+
+
+##IYI EĞLENCELER##
+
+
